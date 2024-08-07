@@ -1,2 +1,2 @@
 # Economia Brasileira I
-Disciplina do curso de pós-graduação em Economia, FEA-USP, 2022.
+Disciplina do curso de pós-graduação em Economia, FEA-USP, 2024.
